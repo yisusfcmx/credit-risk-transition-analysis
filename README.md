@@ -33,4 +33,5 @@ Versión anonimizada para portafolio. Se removieron referencias internas, tablas
 Versión inicial pública
 
 Este código se publica bajo licencia MIT
+
 México. MMXXVI
